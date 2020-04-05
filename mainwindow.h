@@ -21,15 +21,26 @@ private slots:
 
     void on_boton2_clicked();
 
-    void on_boton_suma_clicked();
 
-    void on_boton_igual_clicked();
 
     void on_boton3_clicked();
 
-    void on_boton_resta_clicked();
 
     void on_boton_coma_clicked();
+
+    void on_boton4_clicked();
+
+    void on_boton5_clicked();
+
+    void on_boton6_clicked();
+
+    void on_boton7_clicked();
+
+    void on_boton8_clicked();
+
+    void on_boton9_clicked();
+
+    void on_boton0_clicked();
 
 private:
     Ui::MainWindow *ui;
